@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Anime kawai</string>
+    <string name="id_value">Identificador</string>
+    <string name="name_value">Nombre</string>
+    <string name="tempo_value">Temporada</string>
+    <string name="capi_value">Capitulo</string>
+    <string name="button_load">Cargar</string>
+    <string name="button_save">Guardar</string>
+    <string name="id_hint">Ingrese el número del id</string>
+    <string name="name_hint">Nombre del Anime</string>
+    <string name="tempo_hint">Nombre de la Temporada</string>
+    <string name="capi_hint">Numero del Capitulo</string>
+    <string name="link_hint">Link del anime</string>
+    <string name="link_value">Link</string>
+
+</resources>
+
+
+
+
+

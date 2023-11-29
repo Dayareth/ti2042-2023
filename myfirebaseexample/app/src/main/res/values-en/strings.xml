@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime kawai</string>
+    <string name="id_value">Id</string>
+    <string name="name_value">Name</string>
+    <string name="tempo_value">Season</string>
+    <string name="capi_value">chapter</string>
+    <string name="button_load">Load</string>
+    <string name="button_save">Save</string>
+    <string name="id_hint">Write the id number</string>
+    <string name="name_hint">anime name</string>
+    <string name="tempo_hint">Season name</string>
+    <string name="capi_hint">Chapter number</string>
+    <string name="link_hint">enlace</string>
+    <string name="link_value">Link</string>
+</resources>

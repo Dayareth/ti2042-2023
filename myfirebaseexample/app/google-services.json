@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968890471211",
+    "project_id": "animex-1a8e4",
+    "storage_bucket": "animex-1a8e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968890471211:android:fd9d3e4ca131a2b1662b6e",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVd7pQBZlMivZINZb97Iq_c8tS83hxjUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
